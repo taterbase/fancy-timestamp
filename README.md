@@ -2,6 +2,8 @@
 
 Use this to create natural language for your unix timestamps (similar to Facebook's)
 
+Plays well with [browserify](https://github.com/substack/node-browserify)
+
 #Usage
 
 ```javascript
