@@ -5,7 +5,7 @@ Use this to create natural language for your unix timestamps (similar to Faceboo
 #Usage
 
 ```javascript
-var fancyTimestamp = require('/client/fancyTimestamp');
+var fancyTimestamp = require('fancy-timestamp');
 
 var normalTimestamp = 1342123755;
 var javascriptTimestamp = (new Date()).getTime();
