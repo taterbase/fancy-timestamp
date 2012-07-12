@@ -5,10 +5,10 @@ Use this to create natural language for your unix timestamps (similar to Faceboo
 #Usage
 
 ```javascript
-var fancyTimestamp = require('fancy-timestamp');
+var fancyTimestamp = require('fancy-timestamp'); //fancyTimestamp(timestamp, /* milliseconds */);
 
-var normalTimestamp = 1342123755;
-var javascriptTimestamp = (new Date()).getTime();
+var normalTimestamp = 1342123755; //Uses seconds
+var javascriptTimestamp = (new Date()).getTime(); //Uses milliseconds
 
 var fancyTimestampString = fancyTimestamp(normalTimestamp); // == "8 minutes ago"
 
