@@ -1,0 +1,29 @@
+{
+  "name": "fancy-timestamp",
+  "version": "0.0.1",
+  "author": {
+      "name": "taterbase",
+      "email": "taterbase@gmail.com",
+      "url": "http://github.com/taterbase/fancy-timestamp"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/taterbase/fancy-timestamp.git"
+  },
+  "licenses": [
+      {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/MIT"
+      }
+  ],
+  "keywords": [
+      "timestamp",
+      "fancy",
+      "fancy timestamp",
+      "natural",
+      "english"
+  ],
+  "description": "Create natural language from UNIX timestamps",
+  "engine": {"node" :  ">= 0.6.0"},
+  "main": "index.js"
+}
