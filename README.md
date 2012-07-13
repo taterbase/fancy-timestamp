@@ -22,7 +22,7 @@ It can also accept timestamps composed of milliseconds such as the ones JavaScri
 ```javascript
 var javascriptTimestamp = (new Date()).getTime(); //Using JavaScript's timestamp composed of milliseconds
 
-fancyTimestampString = fancyTimestamp(javascriptTimestamp, true); // result == "Just Now!"
+fancyTimestampString = fancyTimestamp(javascriptTimestamp, true); // result == "Just now"
 ```
 
 #License
