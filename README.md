@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/taterbase/fancy-timestamp.png)](http://travis-ci.org/taterbase/fancy-timestamp)
 #Fancy Timestamp
 
 Use this to create natural language for your unix timestamps (similar to Facebook's)
