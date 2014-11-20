@@ -25,5 +25,7 @@ var javascriptTimestamp = (new Date()).getTime(); //Using JavaScript's timestamp
 fancyTimestampString = fancyTimestamp(javascriptTimestamp, true); // result == "Just now"
 ```
 
+Where appropriate, fancy-timestamp will apply the appropriate ending to the natural language text such as 'tomorrow' or 'away' for dates in the future, and 'yesterday' or 'ago' for dates in the past.
+
 #License
 <a href="http://www.opensource.org/licenses/mit-license.php/">MIT license</a>
