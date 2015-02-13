@@ -1,11 +1,16 @@
 {
   "name": "fancy-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
       "name": "taterbase",
       "email": "taterbase@gmail.com",
       "url": "http://github.com/taterbase/fancy-timestamp"
   },
+  "contributors": [{
+    "name": "Adam Bickford",
+    "email": "adam@adambickford.net",
+    "github": "https://github.com/dadambickford"
+  }],
   "repository": {
       "type": "git",
       "url": "git://github.com/taterbase/fancy-timestamp.git"
